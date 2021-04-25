@@ -1,0 +1,7 @@
+{
+  "name": "Frame Viewer",
+  "id": "968175317112843772",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
